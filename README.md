@@ -13,9 +13,6 @@ A React app inspired by Google Keep for managing notes.
 - CSS3
 - JavaScript (ES6)
 
-## 📸 Screenshot
-![Keeper App Screenshot](screenshot.png)
-
 ## 📂 How to Run
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
